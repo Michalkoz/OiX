@@ -1,4 +1,4 @@
-package com.ak;
+package com.mk;
 
 import javax.swing.*;
 import java.awt.*;
@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Michał Makaruk on 08.04.2017.
+ * Created by Michał Kozakiewicz on 23.11.2017.
  */
 public class MainFrane extends JFrame implements ActionListener {
 
